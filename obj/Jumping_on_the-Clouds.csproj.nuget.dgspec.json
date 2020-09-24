@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/Jumping_on_the-Clouds.csproj": {}
+  },
+  "projects": {
+    "/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/Jumping_on_the-Clouds.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/Jumping_on_the-Clouds.csproj",
+        "projectName": "Jumping_on_the-Clouds",
+        "projectPath": "/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/Jumping_on_the-Clouds.csproj",
+        "packagesPath": "/Users/hgoel/.nuget/packages/",
+        "outputPath": "/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hgoel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
