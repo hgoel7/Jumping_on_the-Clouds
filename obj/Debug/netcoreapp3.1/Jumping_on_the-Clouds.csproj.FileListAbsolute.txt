@@ -1,0 +1,12 @@
+/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/bin/Debug/netcoreapp3.1/Jumping_on_the-Clouds.deps.json
+/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/bin/Debug/netcoreapp3.1/Jumping_on_the-Clouds.runtimeconfig.json
+/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/bin/Debug/netcoreapp3.1/Jumping_on_the-Clouds.runtimeconfig.dev.json
+/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/bin/Debug/netcoreapp3.1/Jumping_on_the-Clouds.dll
+/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/bin/Debug/netcoreapp3.1/Jumping_on_the-Clouds.pdb
+/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/obj/Debug/netcoreapp3.1/Jumping_on_the-Clouds.csprojAssemblyReference.cache
+/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/obj/Debug/netcoreapp3.1/Jumping_on_the-Clouds.AssemblyInfoInputs.cache
+/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/obj/Debug/netcoreapp3.1/Jumping_on_the-Clouds.AssemblyInfo.cs
+/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/obj/Debug/netcoreapp3.1/Jumping_on_the-Clouds.csproj.CoreCompileInputs.cache
+/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/obj/Debug/netcoreapp3.1/Jumping_on_the-Clouds.dll
+/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/obj/Debug/netcoreapp3.1/Jumping_on_the-Clouds.pdb
+/Users/hgoel/My_Git_Hub/Jumping_on_the-Clouds/obj/Debug/netcoreapp3.1/Jumping_on_the-Clouds.genruntimeconfig.cache

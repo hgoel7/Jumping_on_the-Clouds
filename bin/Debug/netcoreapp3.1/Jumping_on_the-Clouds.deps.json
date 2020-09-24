@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Jumping_on_the-Clouds/1.0.0": {
+        "runtime": {
+          "Jumping_on_the-Clouds.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jumping_on_the-Clouds/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
